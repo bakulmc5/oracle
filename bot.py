@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxxx'
-compartmentId = 'xxxxxxxx'
-availabilityDomain = "xxxxxxxxx"
-imageId = "xxxxxxxxx"
-subnetId = 'xxxxxxxxxx'
-ssh_authorized_keys = "xxxxxxxxx"
+displayName = 'DosVaia'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaqadziarkoa2uxd5bu6inc5ozznoosill7xgwwbanuj3hkmtog5gq'
+availabilityDomain = "vtFl:AP-SINGAPORE-1-AD-1"
+imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaagjqjdf2u3bj3wr6i6hfm7tuqpa7g5i6cslvswnkql7sh2vehhr4q"
+subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaarxjfjnleaqpkqpvlrrhfyyrlhp6zupi5hlxn3lcyvhbw7w6hg6vq'
+ssh_authorized_keys = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFS9lkNWMXCfYRUDkDxrX3JaS/LAcMV0Y/I02RPeyp0B JuiceSSH "
 
 
 import oci
